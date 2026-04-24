@@ -1,0 +1,6 @@
+{
+  "name": "SmartDub - Video Translator",
+  "description": "Multi-language video transcription and translation powered by Gemini AI. Extract audio from video, detect language, and translate to Telugu, Hindi, Tamil, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
